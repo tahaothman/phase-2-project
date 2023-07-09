@@ -11,3 +11,37 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#pic {
+  height: 100px;
+  width: 100px;
+}
+#pic:active{
+  transform: scale(.5);
+}
+
+.navbar {
+  display:flex;
+  float:left;
+  justify-content:space-around;
+  align-items: center;
+  background-color: rgb(197, 227, 244);
+  font-size: 20px;
+  box-shadow: 1px 3px 5px ;
+  width: 80%;
+  height: 80px;
+  border-radius: 13px;
+  position: fixed;
+  z-index: 10;
+  left: 10%;
+  margin-left: auto;
+  margin-right: auto;
+  background-image: url(https://media.cntraveler.com/photos/5ea9df878abbf81d02aeae0b/1:1/w_4016,h_4016,c_limit/Kawachi-Fuji-Garden-wisteria-GettyImages-684691336.jpg);
+  
+  
+}
+
+.nav:focus{
+  background-color: blue;
+  
+}

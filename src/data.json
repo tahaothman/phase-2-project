@@ -1,0 +1,180 @@
+ {
+  "movies":  [
+    {
+      "id":1,
+      "spot": 1,
+      "driver": "Doctor Strange",
+      "address": 115,
+      "phone": 2485080392
+      
+    },
+    {
+      "id":2,
+      "spot": 2,
+      "driver": "Trolls",
+      "address": 92,
+      "phone": 2485080392
+      
+    },
+    {
+      "id":3,
+      "spot": 3,
+      "driver": "Jack Reacher: Never Go Back",
+      "address": 118,
+      "phone": 2485080392
+     
+    },
+    {
+      "spot": 4,
+      "driver": "taha othman",
+      "address": 118,
+      "phone": 2485080392
+      
+    },
+    {
+      "spot": 5,
+      "driver": "Doctor Strange",
+      "address": 115,
+      "phone": 2485080392
+      
+    },
+    {
+      "spot": 6,
+      "driver": "Trolls",
+      "address": 92,
+      "phone": 2485080392,
+      "genres": ["Animation", "Adventure", "Comedy", "Family", "Fantasy"]
+    },
+    {
+      "spot": 7,
+      "driver": "Jack Reacher: Never Go Back",
+      "address": 118,
+      "phone": 2485080392,
+      "genres": ["Action", "Adventure", "Crime", "Mystery", "Thriller"]
+    },
+    {
+      "spot": 8,
+      "driver": "taha othman",
+      "address": 118,
+      "phone": 2485080392,
+      "genres": ["Action", "Adventure", "Crime", "Mystery", "Thriller"]
+    },
+    {
+      "spot": 9,
+      "driver": "Doctor Strange",
+      "address": 115,
+      "phone": 2485080392,
+      "genres": ["Action", "Adventure", "Fantasy"]
+    },
+    {
+      "spot": 10,
+      "driver": "Trolls",
+      "address": 92,
+      "phone": 2485080392,
+      "genres": ["Animation", "Adventure", "Comedy", "Family", "Fantasy"]
+    },
+    {
+      "spot": 11,
+      "driver": "Jack Reacher: Never Go Back",
+      "address": 118,
+      "phone": 2485080392,
+      "genres": ["Action", "Adventure", "Crime", "Mystery", "Thriller"]
+    },
+    {
+      "spot": 12,
+      "driver": "taha othman",
+      "address": 118,
+      "phone": 2485080392,
+      "genres": ["Action", "Adventure", "Crime", "Mystery", "Thriller"]
+    },
+    {
+      "spot": 1,
+      "driver": "Doctor Strange",
+      "address": 115,
+      "phone": 2485080392,
+      "genres": ["Action", "Adventure", "Fantasy"]
+    },
+    {
+      "spot": 2,
+      "driver": "Trolls",
+      "address": 92,
+      "phone": 2485080392,
+      "genres": ["Animation", "Adventure", "Comedy", "Family", "Fantasy"]
+    },
+    {
+      "spot": 3,
+      "driver": "Jack Reacher: Never Go Back",
+      "address": 118,
+      "phone": 2485080392,
+      "genres": ["Action", "Adventure", "Crime", "Mystery", "Thriller"]
+    },
+    {
+      "spot": 4,
+      "driver": "taha othman",
+      "address": 118,
+      "phone": 2485080392,
+      "genres": ["Action", "Adventure", "Crime", "Mystery", "Thriller"]
+    },
+    {
+      "spot": 5,
+      "driver": "Doctor Strange",
+      "address": 115,
+      "phone": 2485080392,
+      "genres": ["Action", "Adventure", "Fantasy"]
+    },
+    {
+      "spot": 6,
+      "driver": "Trolls",
+      "address": 92,
+      "phone": 2485080392,
+      "genres": ["Animation", "Adventure", "Comedy", "Family", "Fantasy"]
+    },
+    {
+      "spot": 7,
+      "driver": "Jack Reacher: Never Go Back",
+      "address": 118,
+      "phone": 2485080392,
+      "genres": ["Action", "Adventure", "Crime", "Mystery", "Thriller"]
+    },
+    {
+      "spot": 8,
+      "driver": "taha othman",
+      "address": 118,
+      "phone": 2485080392,
+      "genres": ["Action", "Adventure", "Crime", "Mystery", "Thriller"]
+    },
+    {
+      "spot": 9,
+      "driver": "Doctor Strange",
+      "address": 115,
+      "phone": 2485080392,
+      "genres": ["Action", "Adventure", "Fantasy"]
+    },
+    {
+      "spot": 10,
+      "driver": "Trolls",
+      "address": 92,
+      "phone": 2485080392,
+      "genres": ["Animation", "Adventure", "Comedy", "Family", "Fantasy"]
+    },
+    {
+      "spot": 11,
+      "driver": "Jack Reacher: Never Go Back",
+      "address": 118,
+      "phone": 2485080392,
+      "genres": ["Action", "Adventure", "Crime", "Mystery", "Thriller"]
+    },
+    {
+      "spot": 12,
+      "driver": "taha othman",
+      "address": 118,
+      "phone": 2485080392,
+      "genres": ["Action", "Adventure", "Crime", "Mystery", "Thriller"]
+    }
+  ]
+  
+  
+  
+  
+  
+    }
